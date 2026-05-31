@@ -53,7 +53,6 @@ Machine learning-based cybersecurity system designed to identify and classify ma
 * SQLite
 * HTML
 * CSS
-* JavaScript
 * Git
 * GitHub
 
