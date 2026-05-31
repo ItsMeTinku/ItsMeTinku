@@ -3,7 +3,9 @@
 ### Python Developer | AI & Machine Learning Enthusiast
 
 I enjoy building real-world applications using Python, AI, NLP, Flask, Streamlit, and modern databases. My focus is on creating practical solutions that solve meaningful problems and provide a great user experience.
+## 📄 Resume
 
+👉 [Download Resume](./tinku_resume_final.pdf)
 ---
 
 ## 🚀 Featured Projects
