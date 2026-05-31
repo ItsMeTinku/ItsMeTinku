@@ -20,7 +20,7 @@ AI-powered ATS Resume Analyzer and Job Matching Platform using semantic embeddin
 
 A multi-purpose productivity platform that combines several useful tools into a single application.
 
-**Tech Stack:** Python, Flask, HTML, CSS, JavaScript
+**Tech Stack:** Python, Flask, HTML, CSS
 
 ### Salon Management System
 
