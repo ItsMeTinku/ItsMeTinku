@@ -34,11 +34,10 @@ A secure contract storage and management platform.
 
 **Tech Stack:** Python, Flask, Database Management
 
-### Smart Market Price Analyzer
+### Cyber Attack Detection
+Machine learning-based cybersecurity system designed to identify and classify malicious network activities and potential cyber threats.
 
-Market trend analysis and price prediction platform using data analytics techniques.
-
-**Tech Stack:** Python, Data Analysis, Machine Learning
+**Tech Stack:** Python, Machine Learning, Data Analysis, Pandas, Scikit-learn
 
 ---
 
