@@ -16,12 +16,6 @@ AI-powered ATS Resume Analyzer and Job Matching Platform using semantic embeddin
 
 **Tech Stack:** Python, Streamlit, Sentence Transformers, Supabase, PostgreSQL
 
-### Smart Hub
-
-A multi-purpose productivity platform that combines several useful tools into a single application.
-
-**Tech Stack:** Python, Flask, HTML, CSS
-
 ### Salon Management System
 
 A complete salon business management solution with appointment and customer management.
@@ -35,9 +29,16 @@ A secure contract storage and management platform.
 **Tech Stack:** Python, Flask, Database Management
 
 ### Cyber Attack Detection
+
 Machine learning-based cybersecurity system designed to identify and classify malicious network activities and potential cyber threats.
 
 **Tech Stack:** Python, Machine Learning, Data Analysis, Pandas, Scikit-learn
+
+### Smart Hub
+
+A multi-purpose productivity platform that combines several useful tools into a single application.
+
+**Tech Stack:** Python, Flask, HTML, CSS
 
 ---
 
