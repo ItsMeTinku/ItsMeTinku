@@ -5,10 +5,10 @@
 I enjoy building real-world applications using Python, AI, NLP, Flask, Streamlit, and modern databases. My focus is on creating practical solutions that solve meaningful problems and provide a great user experience.
 ## 📄 Resume
 
-👉 [Download Resume](./tinku_resume_final.pdf)
+👉 [Download Resume](./Tinku_Resume.pdf)
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Skill Job Matcher
 
@@ -42,7 +42,7 @@ A multi-purpose productivity platform that combines several useful tools into a 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 * Python
 * Flask
@@ -59,7 +59,7 @@ A multi-purpose productivity platform that combines several useful tools into a 
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Advanced Machine Learning
 * Retrieval-Augmented Generation (RAG)
@@ -69,13 +69,13 @@ A multi-purpose productivity platform that combines several useful tools into a 
 
 ---
 
-## 📫 Contact
+## Contact
 
 * Email: [tk1398900@gmail.com](mailto:tk1398900@gmail.com)
 * GitHub: https://github.com/ItsMeTinku
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I enjoy transforming ideas into working software and continuously improving my development skills through hands-on projects.
