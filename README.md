@@ -1,4 +1,4 @@
-# Hi, I'm Tinku 👋
+# Hi, I'm Tinku 
 
 ### Python Developer | AI & Machine Learning Enthusiast
 
